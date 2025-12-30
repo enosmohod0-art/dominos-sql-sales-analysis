@@ -29,6 +29,13 @@ The analysis covers:
 - This repository is meant to showcase analytical thinking,
   insight structure, and communication approach.
 
+## Key Insights Summary
+- Order demand remains relatively stable across most months, with short-term fluctuations rather than sustained decline.
+- Peak order volumes occur between midday and early evening hours, indicating concentrated operational load during this window.
+- A small set of pizzas contributes a disproportionate share of total revenue.
+- Standard pizza sizes generate most of the revenue, indicating clear customer size preferences.
+- Average order size suggests moderate purchasing behavior rather than bulk ordering.
+
 ## Presentation
 📄 **Project Presentation (PDF)**  
 (Uploaded in this repository)
