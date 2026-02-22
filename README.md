@@ -109,7 +109,7 @@ All top performers belong to the **non-vegetarian category**, indicating stronge
 ## 📊 Sample Visual Insights
 
 ### Month-over-Month Sales
-![Monthly Trend](screenshots/monthly_trend.png)
+![Monthly Trend](screenshots/mom_growth.png)
 
 ### Order Distribution by Hour
 ![Orders by Hour](screenshots/orders_by_hour.png)
